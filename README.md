@@ -10,21 +10,21 @@ https://www.bengalsaroma.com/category/blog/
 Then annotation is done using this app:
 https://tecoholic.github.io/ner-annotator/
 
-Prepare and upload that input file.
-Create text and annotate.
-Export the Annotations as JSON file. 
+i. Prepare and upload that input file.
+ii. Create text and annotate.
+iii. Export the Annotations as JSON file. 
 
 There are total 30 sentences related to bengali food blogs
 25 of them are for the training set and 5 for validation set (83-17 split)
 Then annotating only with ‘food’ tags using the app.
 
 ### Training:
-Importing spacy 3
-Loading the spacy blank model (as we’re going to use spacy’s text classifier) and creating the docbin object
-Converting the training and validation JSON files into .spacy (docbin) objects
-Extracting config file using spacy config widget or the CLI 
+i. Importing spacy 3
+ii. Loading the spacy blank model (as we’re going to use spacy’s text classifier) and creating the docbin object
+iii. Converting the training and validation JSON files into .spacy (docbin) objects
+iv. Extracting config file using spacy config widget or the CLI 
 ```init config config.cfg``` 
-Train using the config file after specifying training and validation file directory.
+v. Train using the config file after specifying training and validation file directory.
 The last model and the best model are saved automatically. 
 
 ### Inference:
