@@ -14,7 +14,7 @@ https://tecoholic.github.io/ner-annotator/
 2. Create text and annotate.
 3. Export the Annotations as JSON file. 
 
-![alt text](https://drive.google.com/file/d/1zuuKRcD6af8X9CU3DX28m7__WHP1CFTE/view?usp=sharing](https://drive.google.com/uc?export=view&id=1zuuKRcD6af8X9CU3DX28m7__WHP1CFTE)
+![alt text]([https://drive.google.com/file/d/1zuuKRcD6af8X9CU3DX28m7__WHP1CFTE/view?usp=sharing](https://drive.google.com/uc?export=view&id=1zuuKRcD6af8X9CU3DX28m7__WHP1CFTE](https://drive.google.com/uc?export=view&id=1zuuKRcD6af8X9CU3DX28m7__WHP1CFTE))
 
 There are total 30 sentences related to bengali food blogs
 25 of them are for the training set and 5 for validation set (83-17 split)
